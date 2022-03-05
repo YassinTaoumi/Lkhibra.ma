@@ -27,7 +27,7 @@ and compute the area.
 
 
 """
-Print First 10 natural numbers using while loop
+Display numbers from a list using loop
 """
 
 
@@ -53,11 +53,4 @@ Write a Python program to get the smallest number from a list.
 """
 
 
-"""
-print the following pattern 
-1 
-1 2 
-1 2 3 
-1 2 3 4 
-1 2 3 4 5
-"""
+
