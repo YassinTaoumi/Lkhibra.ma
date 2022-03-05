@@ -1,5 +1,5 @@
 """
-Accept a list of 5 float numbers as an input from the user
+Accept a list of 5 float numbers as an input from the user and print them
 """
 
 """
